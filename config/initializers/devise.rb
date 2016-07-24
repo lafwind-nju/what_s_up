@@ -12,7 +12,7 @@ Devise.setup do |config|
   # with default "from" parameter.
 
   # config.mailer_sender = 'Lafwind <lafwind@163.com>'
-  config.mailer_sender = 'WhatsUp <lafwind@163.com>'
+  config.mailer_sender = 'WhatsUp <no-reply@whatsup.com>'
 
   # Configure the class responsible to send e-mails.
   # config.mailer = 'Devise::Mailer'

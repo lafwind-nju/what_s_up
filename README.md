@@ -9,3 +9,8 @@
   * 本地：postgresql
   * production: postgresql
 * 用到的 gem：参考 gemfile
+
+##### TODOs
+
+* 响应式设计
+* 提供 api
